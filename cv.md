@@ -20,7 +20,10 @@
 >Suddenly, I have not examples of my code in open source, but it will appear soon on my [github account](https://github.com/Featurist505095).
 
 ## Experience
+>I'm working in IT department in tax agency. I have some coding experience in batch and powershell scripts, phantomJS/casperJS browser. 
 
 ## Education
+* [Codecademy: Learn HTML; Learn CSS](https://www.codecademy.com/profiles/featurist)
+* [Stepik: JavaScript for Beginners](https://stepik.org/users/90772532)
 
 ## English
