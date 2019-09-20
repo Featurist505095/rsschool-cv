@@ -27,3 +27,4 @@
 * [Stepik: JavaScript for Beginners](https://stepik.org/users/90772532)
 
 ## English
+* **English** &mdash; pre-intermediate level (A2)
