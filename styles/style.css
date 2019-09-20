@@ -1,0 +1,59 @@
+body {
+    font-family: "Segoe UI",Arial,sans-serif;
+    background-color: #edeef0;
+}
+
+main {
+    position: relative;
+    display: flex;
+    max-width: 1024px;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 10px 0;
+    background-color: #95c6d4;
+}
+
+h1 {
+    border-bottom: 3px solid black;
+}
+
+h2 {
+    border-bottom: 1px solid #000000;
+}
+
+h1, h2 {
+    padding: 0 2%;
+    font-weight: 800;
+}
+
+p {
+    margin: 0 2%;
+    padding-bottom: 2%;
+}
+
+ul, p {
+    padding-bottom: 2%;
+}
+
+.content div + div {
+    width: 98%;
+    background-color: rgba(214, 213, 213, 0.7);
+    border-radius: 5px;
+}
+
+.header {
+    margin: 0.67em;
+}
+
+.contact li {
+    list-style-type: none;
+}
+
+.logo {
+    width: 1em;
+    height: 1em;
+}
+
+#person img{
+    border-radius: 1rem;
+}
